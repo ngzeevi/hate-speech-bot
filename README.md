@@ -1,4 +1,4 @@
-Discord bot to detect inappropriate messages.
+Discord bot to detect inappropriate messages.\
 Dataset source: https://github.com/Vicomtech/hate-speech-dataset
 
 Example
